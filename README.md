@@ -18,3 +18,4 @@ Open Amazon-Loop.exe
 3. Enter proxies in proxies.txt
 4. Enter emails in emails.txt
 
+![](https://media.discordapp.net/attachments/967807348200570932/994211671314812938/Capture.PNG)
