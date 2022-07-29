@@ -19,3 +19,9 @@ Open Amazon-Loop.exe
 4. Enter emails in emails.txt
 
 ![](https://media.discordapp.net/attachments/967807348200570932/994211671314812938/Capture.PNG)
+
+# Disclaimer
+
+Everything you see here has been made for educational purposes only. I do not support the creation of false
+reviews. I do not promote or take responsibility for any bad usage of this tool. You are the only one responsible
+for your actions. Please use this tool wisely.
